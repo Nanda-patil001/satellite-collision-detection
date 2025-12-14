@@ -1,3 +1,4 @@
-Satellite Collision Analysis Results
-==================================
+Collision Check Report
+======================
 
+No collision risk detected in simulation.
